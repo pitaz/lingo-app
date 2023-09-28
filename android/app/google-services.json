@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354059503408",
+    "project_id": "lingo-a8301",
+    "storage_bucket": "lingo-a8301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354059503408:android:6889c102e4689e0cc82af5",
+        "android_client_info": {
+          "package_name": "com.languageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlWESoXlstAABdy65PYnPseyJ_9Sh1bRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
